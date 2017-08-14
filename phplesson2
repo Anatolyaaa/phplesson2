@@ -1,0 +1,14 @@
+<?php
+$x = rand(0,100);
+$a = 1;
+$b = 1;
+do {
+    if ($a > $x ) {
+        echo ;
+        break;
+    }
+    else if ( $a === $x){
+        echo ;
+        break;
+    }
+    ?>
